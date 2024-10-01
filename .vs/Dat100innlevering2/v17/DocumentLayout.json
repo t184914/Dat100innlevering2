@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\main\\java\\no\\hvl\\dat100\\matriser\\Matriser.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\no\\hvl\\dat100\\matriser\\Matriser.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\main\\java\\no\\hvl\\dat100\\tabeller\\Tabeller.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\no\\hvl\\dat100\\tabeller\\Tabeller.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\test\\java\\no\\hvl\\dat100\\matriser\\MatriserEnhetsTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\no\\hvl\\dat100\\matriser\\MatriserEnhetsTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\test\\java\\no\\hvl\\dat100\\tabeller\\TabellerEnhetsTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\no\\hvl\\dat100\\tabeller\\TabellerEnhetsTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matriser.java",
+              "DocumentMoniker": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\main\\java\\no\\hvl\\dat100\\matriser\\Matriser.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\no\\hvl\\dat100\\matriser\\Matriser.java",
+              "ToolTip": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\main\\java\\no\\hvl\\dat100\\matriser\\Matriser.java",
+              "RelativeToolTip": "src\\main\\java\\no\\hvl\\dat100\\matriser\\Matriser.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-10-01T13:54:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tabeller.java",
+              "DocumentMoniker": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\main\\java\\no\\hvl\\dat100\\tabeller\\Tabeller.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\no\\hvl\\dat100\\tabeller\\Tabeller.java",
+              "ToolTip": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\main\\java\\no\\hvl\\dat100\\tabeller\\Tabeller.java",
+              "RelativeToolTip": "src\\main\\java\\no\\hvl\\dat100\\tabeller\\Tabeller.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-10-01T13:38:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatriserEnhetsTests.java",
+              "DocumentMoniker": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\test\\java\\no\\hvl\\dat100\\matriser\\MatriserEnhetsTests.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\no\\hvl\\dat100\\matriser\\MatriserEnhetsTests.java",
+              "ToolTip": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\test\\java\\no\\hvl\\dat100\\matriser\\MatriserEnhetsTests.java",
+              "RelativeToolTip": "src\\test\\java\\no\\hvl\\dat100\\matriser\\MatriserEnhetsTests.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-10-01T13:50:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TabellerEnhetsTests.java",
+              "DocumentMoniker": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\test\\java\\no\\hvl\\dat100\\tabeller\\TabellerEnhetsTests.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\no\\hvl\\dat100\\tabeller\\TabellerEnhetsTests.java",
+              "ToolTip": "C:\\Programering\\Github\\Dat100\\Dat100innlevering2\\src\\test\\java\\no\\hvl\\dat100\\tabeller\\TabellerEnhetsTests.java",
+              "RelativeToolTip": "src\\test\\java\\no\\hvl\\dat100\\tabeller\\TabellerEnhetsTests.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-10-01T13:42:36.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
